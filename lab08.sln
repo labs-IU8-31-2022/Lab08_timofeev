@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml_serialization", "xml_serialization\xml_serialization.csproj", "{564854B3-42EB-4E2E-9689-EF3AA1CFF980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml_deserialization", "xml_deserialization\xml_deserialization.csproj", "{99AC9148-6AD8-44E2-8FCA-5D7E1A008072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filemanager", "filemanager\filemanager.csproj", "{88416507-CD89-4B70-BFB8-2FAD3FFFB5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564854B3-42EB-4E2E-9689-EF3AA1CFF980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564854B3-42EB-4E2E-9689-EF3AA1CFF980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564854B3-42EB-4E2E-9689-EF3AA1CFF980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564854B3-42EB-4E2E-9689-EF3AA1CFF980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AC9148-6AD8-44E2-8FCA-5D7E1A008072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC9148-6AD8-44E2-8FCA-5D7E1A008072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC9148-6AD8-44E2-8FCA-5D7E1A008072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC9148-6AD8-44E2-8FCA-5D7E1A008072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88416507-CD89-4B70-BFB8-2FAD3FFFB5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88416507-CD89-4B70-BFB8-2FAD3FFFB5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88416507-CD89-4B70-BFB8-2FAD3FFFB5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88416507-CD89-4B70-BFB8-2FAD3FFFB5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

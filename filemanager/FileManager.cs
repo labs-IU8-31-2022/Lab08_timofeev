@@ -80,7 +80,7 @@ FileInfo FindAndPrintFile(string filename)
             Console.WriteLine(File.ReadAllText(enumFiles.ElementAt(choice - 1).ToString()));
         }
 
-        return enumFiles.ElementAt(Convert.ToInt32(choice));
+        return enumFiles.ElementAt(Convert.ToInt32(choice - 1));
     }
 
     return null;
